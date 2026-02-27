@@ -6,6 +6,8 @@
 <img width="778" height="149" alt="image" src="https://github.com/user-attachments/assets/3c3bb29e-87b6-43d8-8d43-d4bb91beb1d1" />
 
 
+### If it crashes, just reopen it. That happens sometimes
+
 ## Why does this exist?
 i don't know
 
