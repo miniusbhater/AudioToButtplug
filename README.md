@@ -1,4 +1,6 @@
 # AudioToButtplug
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/miniusbhater/AudioToButtplug/total)
+
 ### Converts system audio into vibrations for use with Intiface Central using buttplugio
 
 <img width="1108" height="449" alt="image" src="https://github.com/user-attachments/assets/f4dfd332-34cc-43c6-8ff3-21a94c437aa4" />
